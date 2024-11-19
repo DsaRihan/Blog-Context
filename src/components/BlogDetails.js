@@ -1,6 +1,6 @@
 import React from 'react'
 
-const BlogDetails = ({post}) => {
+const BlogDetails = ({post }) => {
   return (
     <div>
        <div key={post.id} className="w-11/12 max-w-2xl mx-auto">
